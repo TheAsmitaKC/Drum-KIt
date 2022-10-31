@@ -1,0 +1,117 @@
+*{
+    background-color: rgb(127, 110, 212);
+}
+#Drumkit{
+  
+    font-size: 3rem;
+    font-weight: 300;
+    text-align: center;
+    
+}
+.set{
+    margin: 10% auto;
+    
+}
+.adrum{
+    color: rgb(199, 190, 193);
+ background: url("images/aliane-schwartzhaupt-QdmUva6qBTk-unsplash.jpg");
+ background-size: cover;
+    font-size: 1rem;
+    font-weight: 200;
+    border: 7px solid rgb(89, 65, 209);
+    border-radius: 15px;
+    height: 80px;
+    width: 70px;
+    margin-right: 20px;
+    margin-left: 15px;
+   
+}
+.sdrum{
+    color: rgb(223, 217, 219);
+  background-color: white;
+    font-size: 1rem;
+    font-weight: 200;
+    border: 7px solid rgb(89, 65, 209);
+    height: 80px;
+    width: 70px;
+    margin-right: 20px;
+    margin-left: 10px;
+    border-radius: 15px;
+    background: url("images/amir-yalon-hQBIFwLpoik-unsplash.jpg");
+ background-size: cover;
+}
+.ddrum{
+    color: rgb(224, 215, 219);
+  background-color: white;
+  font-size: 1rem;
+  font-weight: 200;
+    border: 7px solid rgb(89, 65, 209);
+    height: 80px;
+    width: 70px;
+    margin-right: 20px;
+    margin-left: 5px;
+    border-radius: 15px;
+    background: url("images/pexels-rene-asmussen-1327430.jpg");
+ background-size: cover;
+}
+.fdrum{
+    color: rgb(230, 225, 227);
+  background-color: white;
+    font-size: 1rem;
+    font-weight: 200;
+    border: 7px solid rgb(89, 65, 209);
+    height: 80px;
+    width: 70px;
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 15px;
+    background: url("images/pexels-ricardo-rojas-3608804.jpg");
+ background-size: cover;
+}
+.jdrum{
+    color: rgb(226, 219, 222);
+  background-color: white;
+    font-size: 1rem;
+    font-weight: 200;
+    border: 7px solid rgb(89, 65, 209);
+    height: 80px;
+    width: 70px;
+    margin-left: 30px;
+    margin-right: 10px;
+    border-radius: 15px;
+    background: url("images/brent-ninaber-mLnG4BkTz54-unsplash.jpg");
+ background-size: cover;
+}
+.kdrum{
+    color: rgb(240, 227, 232);
+  background-color: white;
+    font-size: 1rem;
+    font-weight: 200;
+    border: 7px solid rgb(89, 65, 209);
+    height: 80px;
+    width: 70px;
+    margin-left: 20px;
+    border-radius: 15px;
+    background: url("images/gabriel-barletta--lWcaUVJ39Y-unsplash.jpg");
+ background-size: cover;
+    
+}
+.ldrum{
+    color: rgb(236, 232, 234);
+  background-color: white;
+    font-size: 1rem;
+    font-weight: 200;
+    border: 7px solid rgb(89, 65, 209);
+    height: 80px;
+    width: 70px;
+    margin-left: 120px;
+    margin-top: 15px;
+    border-radius: 15px;
+    background: url("images/lukasz-rawa-lUSYREUSXBg-unsplash.jpg");
+ background-size: cover;
+}
+footer{
+    color: white;
+   font-size: larger;
+   text-align: center;
+}
